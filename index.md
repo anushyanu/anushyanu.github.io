@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, I am Anushya, an aspiring software developer. I am interested to share my developer journey through this blog. Some of the code snippets and notes are also for my personal reference. Feel free to drop an email if you wish to connect or share ideas.
