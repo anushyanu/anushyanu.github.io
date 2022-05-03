@@ -1,5 +1,5 @@
 ##
-DAY 1 :
+Newbie to Frontend Developer DAY 1 :
   Basics of HTML and CSS:
   ```
    <h1> tag -heading tag 
