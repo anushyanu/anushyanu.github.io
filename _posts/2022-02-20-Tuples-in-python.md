@@ -15,6 +15,15 @@ Python Basics:
      
      * Pass statement --> it used to write the dummy statement in if condition 
      
+Finding Length:
+
+     * We can find the length(len) in string and lists
+     * In int we cannot find the length
+        e.g n = 123
+        should convert to str and then find the length 
+        
+     * cannot slice the integer.
+     
      
    
 Lists:
